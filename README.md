@@ -5,7 +5,7 @@ Content creator persona in .md
 
 ## File 2: `README.md` (for using the agent)
 
-```markdown
+
 # Viral Classifier Agent – User Guide
 
 ## What is this?
@@ -68,7 +68,6 @@ You can edit `viral_classifier_agent.md` to:
 | `generated_viral_post.md` | Copy-paste this into your social scheduler |
 | `metadata_schema.json` | Use for training your own classifier |
 
----
 
 **Version:** 1.0  
 **Last updated:** 2025  
